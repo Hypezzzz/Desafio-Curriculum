@@ -1,0 +1,26 @@
+.lomejor {
+	color: rgb(87, 7, 7);
+	background-color: rgba(172, 16, 172, 0.822);
+}
+
+.grande {
+	font-size: 40px;
+}
+
+body {
+	background-color: pink;
+}
+
+#descripcion {
+	font-size: 70px;
+}
+
+.prueba {
+	border: solid 3px purple;
+	padding: 1px;
+	margin: 80px;
+}
+
+.cajaprueba {
+	border: 1px solid black;
+}
